@@ -1,0 +1,15 @@
+{
+    "name": "ian.yin/url-access-test",
+    "description": "Test web page accessibility",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ian Yin",
+            "email": "ian.yin@intrepidtravel.com"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9",
+        "league/climate": "^3.2"
+    }
+}
